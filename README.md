@@ -18,7 +18,7 @@
 | <img src="https://raw.githubusercontent.com/JeffSteinbok/obsidian-onedrive/main/OneDriveObsidianSyncIcon.png" width="20" /> | [**obsidian-onedrive**](https://github.com/JeffSteinbok/obsidian-onedrive) | Sync your Obsidian vault with OneDrive Personal/Consumer. <br> [![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-purple?style=flat&logo=obsidian)](https://obsidian.md/plugins?id=onedrive-sync) | [![GitHub stars](https://img.shields.io/github/stars/JeffSteinbok/obsidian-onedrive?style=flat&color=gold)](https://github.com/JeffSteinbok/obsidian-onedrive/stargazers) |
 | 🐚 | [**carapace-m365**](https://github.com/JeffSteinbok/carapace-m365) | Microsoft 365 tools for Outlook mail, calendars, Microsoft To Do, and OneDrive via Microsoft Graph. | |
 
-### <img src="https://jeffsteinbok.github.io/assets/images/carapace.png" width="24" /> Carapace — OpenClaw Plugin Ecosystem
+### <img src="https://jeffstei.github.io/assets/images/carapace.png" width="24" /> Carapace — OpenClaw Plugin Ecosystem
 
 **Carapace** is an SDK and a growing collection of plugins for [OpenClaw](https://openclaw.ai), a modular AI assistant framework that connects language models to real-world services.
 
@@ -38,7 +38,7 @@ Jeff uses **Octo** as his personal AI assistant, built on [OpenClaw](https://ope
 
 | | Project | Description |
 |---|---|---|
-| <img src="https://jeffsteinbok.github.io/assets/images/Octo_small_trimmed.png" width="20" /> | [**Octo Docs**](https://jeffsteinbok.github.io/octo-docs/) | How Jeff has Octo configured — plugins, channels & more. |
+| <img src="https://jeffstei.github.io/assets/images/Octo_small_trimmed.png" width="20" /> | [**Octo Docs**](https://jeffsteinbok.github.io/octo-docs/) | How Jeff has Octo configured — plugins, channels & more. |
 | 🦞 | [**openclaw-hub**](https://github.com/JeffSteinbok/openclaw-hub) | More OpenClaw plugins & services from Jeff's assistant. |
 
 ### 🔧 Other Projects / Work in Progress
