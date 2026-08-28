@@ -1,5 +1,7 @@
 # Hi, I'm Jeff
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeffsteinbok-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/jeffsteinbok)
+
 I work on **OneDrive and SharePoint at Microsoft**, building products and
 engineering systems for Microsoft 365.
 
