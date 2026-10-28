@@ -7,8 +7,4 @@ engineering systems for Microsoft 365.
 This is my work-focused GitHub account. I use it for professional engineering
 activity, Microsoft projects, and collaboration with the developer community.
 
-## Work focus
-
-- OneDrive and SharePoint
-- Microsoft 365 engineering
-- Cloud services, developer productivity, and engineering quality
+For my personal projects, check the link above.
